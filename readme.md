@@ -1,1 +1,1 @@
-# Simple Teamtreehouse profile viewer
+# Simple Teamtreehouse profile viewer with Node.js
